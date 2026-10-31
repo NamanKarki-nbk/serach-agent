@@ -1,0 +1,19 @@
+# Core
+streamlit
+
+# LangChain
+langchain
+langchain-community
+langchain-google-genai
+langchainhub
+
+# LangGraph
+langgraph
+
+# Tools & APIs
+tavily-python
+requests
+
+# Utilities
+python-dotenv
+certifi
